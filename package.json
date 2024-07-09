@@ -1,5 +1,5 @@
 {
-  "name": "router5",
+  "name": "router51",
   "version": "0.0.1",
   "description": "An sdk for routing swaps using Uniswap v2 and Uniswap v3.",
   "publishConfig": {
